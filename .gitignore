@@ -1,0 +1,8 @@
+# Rust target folder
+/target
+
+# Development Env
+dev.env
+
+# Jetbrains Config
+/.idea
